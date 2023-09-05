@@ -25,7 +25,7 @@ To run the PhoneDirectory application on your local machine, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/SajidBhatti/PhoneDirectory.git`
+`git clone https://github.com/SajidBhatti786/PhoneDirectory.git`
 
 2. Open the project in your preferred Java IDE.
 
